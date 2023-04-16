@@ -1,0 +1,14 @@
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+body {
+  /* This style below will be inherited */
+  font-family: Roboto, Arial;
+  margin: 0;
+  background-color: rgb(255, 255, 255);
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+}
